@@ -1,0 +1,8 @@
+﻿  FIleRW.cpp
+C:\Users\刘坤泉\Desktop\C++ ex\实验五\FileRW\FileRW\FIleRW.cpp(14,20): warning C4018: “<”: 有符号/无符号不匹配
+C:\Users\刘坤泉\Desktop\C++ ex\实验五\FileRW\FileRW\FIleRW.cpp(19,20): warning C4018: “<”: 有符号/无符号不匹配
+C:\Users\刘坤泉\Desktop\C++ ex\实验五\FileRW\FileRW\FIleRW.cpp(35,27): warning C4018: “<”: 有符号/无符号不匹配
+C:\Users\刘坤泉\Desktop\C++ ex\实验五\FileRW\FileRW\FIleRW.cpp(54,20): warning C4018: “<”: 有符号/无符号不匹配
+C:\Users\刘坤泉\Desktop\C++ ex\实验五\FileRW\FileRW\FIleRW.cpp(71,20): warning C4018: “<”: 有符号/无符号不匹配
+C:\Users\刘坤泉\Desktop\C++ ex\实验五\FileRW\FileRW\FIleRW.cpp(76,20): warning C4018: “<”: 有符号/无符号不匹配
+  FileRW.vcxproj -> C:\Users\刘坤泉\Desktop\C++ ex\实验五\FileRW\Debug\FileRW.exe

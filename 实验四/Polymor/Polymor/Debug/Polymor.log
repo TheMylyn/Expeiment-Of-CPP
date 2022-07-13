@@ -1,0 +1,4 @@
+﻿  Geometry.cpp
+C:\Users\刘坤泉\Desktop\C++ ex\实验四\Polymor\Polymor\Geometry.cpp(70,16): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+C:\Users\刘坤泉\Desktop\C++ ex\实验四\Polymor\Polymor\Geometry.cpp(77,13): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+  Polymor.vcxproj -> C:\Users\刘坤泉\Desktop\C++ ex\实验四\Polymor\Debug\Polymor.exe

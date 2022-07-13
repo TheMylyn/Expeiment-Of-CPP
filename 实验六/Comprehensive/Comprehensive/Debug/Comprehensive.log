@@ -1,0 +1,4 @@
+﻿  Comprehensive.cpp
+C:\Users\刘坤泉\Desktop\C++ ex\实验六\Comprehensive\Comprehensive\Comprehensive.cpp(146,11): warning C4244: “=”: 从“int”转换到“float”，可能丢失数据
+C:\Users\刘坤泉\Desktop\C++ ex\实验六\Comprehensive\Comprehensive\Comprehensive.cpp(147,11): warning C4244: “=”: 从“int”转换到“float”，可能丢失数据
+  Comprehensive.vcxproj -> C:\Users\刘坤泉\Desktop\C++ ex\实验六\Comprehensive\Debug\Comprehensive.exe
